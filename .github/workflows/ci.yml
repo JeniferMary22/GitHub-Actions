@@ -5,7 +5,7 @@ on:
       -main
 
 jobs:
-  action and builttest:
+  action-and-builttest:
     runs-on: ubuntu-latest
 
     steps:
